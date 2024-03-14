@@ -1,3 +1,22 @@
 body{
     background-color: red;
 }
+
+div{
+    display: inline-block;
+    width: 300px;
+    height: 700px;
+    background-repeat: no-repeat;
+}
+
+div#destroide{
+    background-image: url('../images/londonSX.jpg');
+}
+
+div#centroide{
+    background-image: url('../images/londonCenter.jpg');
+}
+
+div#sinomane{
+    background-image: url('../images/londonDX.jpg');
+}
